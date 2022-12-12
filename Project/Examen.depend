@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1670608216 source:c:\users\lfpmoure_esei.uvigo\desktop\examen\examen\main.cpp
+	<iostream>
+	"functions.h"
+
+1670608113 c:\users\lfpmoure_esei.uvigo\desktop\examen\examen\functions.h
+	<iostream>
+
+1670608140 source:c:\users\lfpmoure_esei.uvigo\desktop\examen\examen\functions.cpp
+	<iostream>
+	"functions.h"
+	<string.h>
+	<fstream>
+
+1670608696 source:c:\users\scoby\downloads\lfpm_examen\functions.cpp
+	<iostream>
+	"functions.h"
+	<string.h>
+	<fstream>
+
+1670608113 c:\users\scoby\downloads\lfpm_examen\functions.h
+	<iostream>
+
+1670685574 source:c:\users\scoby\downloads\lfpm_examen\main.cpp
+	<iostream>
+	"functions.h"
+
