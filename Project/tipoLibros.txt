@@ -1,3 +1,0 @@
-Electronico: 1
-Tapa blanda: 2
-Tapa dura: 1
